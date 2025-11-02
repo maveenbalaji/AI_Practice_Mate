@@ -88,6 +88,9 @@ The AI PracticeLab implements an intelligent progression system:
 3. **Performance-Based Adjustment**: Reduces difficulty when users struggle
 4. **Concept Mastery**: Ensures users master a concept before moving to the next
 
+<img width="1919" height="1006" alt="Screenshot 2025-10-19 190102" src="https://github.com/user-attachments/assets/050fc853-3d92-434c-b523-324104846abb" />
+
+
 ## API Integration
 
 The application uses the Groq API for AI capabilities. The API key should be stored in a `.env` file and accessed through environment variables.
@@ -100,6 +103,8 @@ The application uses the Groq API for AI capabilities. The API key should be sto
 | http | For making HTTP requests |
 | flutter_dotenv | For loading environment variables |
 | shared_preferences | For local data storage (future implementation) |
+
+
 
 ## Future Enhancements
 
@@ -119,3 +124,4 @@ Maveen Balaji CHINTAKRINDI
 
 1.0.0
 ```
+
