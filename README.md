@@ -115,7 +115,7 @@ The application uses the Groq API for AI capabilities. The API key should be sto
 - Real-time leaderboard
 - Adaptive difficulty based on user performance
 - Code execution sandbox for real code evaluation
-
 ```
+
 
 
