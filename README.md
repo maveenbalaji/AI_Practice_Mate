@@ -116,12 +116,6 @@ The application uses the Groq API for AI capabilities. The API key should be sto
 - Adaptive difficulty based on user performance
 - Code execution sandbox for real code evaluation
 
-## Author
-
-Maveen Balaji CHINTAKRINDI
-
-## Version
-
-1.0.0
 ```
+
 
